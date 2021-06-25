@@ -15,7 +15,7 @@
 1. Add your zip file to the repository and commit your changes
 1. Open a pull request (click Contribute > Open a Pull Request)
     + Title the pull request: YourName - FancyPants Submission
-    + Don't submit your source code to the repository - just include it in the zip file.  Only submit the password protected zip file in the PR.
+    + Only submit the password protected zip file in the PR (e.g. don't include clear text source files as they will be viewable by others)
     + If something happens and you are unable to create a pull-request, send your zip file to my email address (below)
 1. Email the password for your zip file to: chris.deluca[at]transactcampus.com 
     + Have the subject of your email be: [YourName] - FancyPants Submission
