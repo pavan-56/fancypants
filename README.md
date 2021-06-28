@@ -25,7 +25,7 @@
 + Primary requirement: Produce a program or script that does the following:
     + Prompts for (or accepts) 4 input values which should all be positive integers
     + The input variables are to be *specifically* named: Low, High, A, B
-    + Output each number on its own line (in ascending order) from Low to High (including endpoints)
+    + Output *every single number* on its own line from Low to High (in ascending order, including endpoints)
         + However, when the current value is evenly divisible by A, produce the output of “Fancy” instead of the number
         + When the current value is evenly divisible by B, produce the output of “Pants” instead of the number
         + When the current value is evenly divisible by A and also evenly divisible by B, produce the output “FancyPants” instead of the number
